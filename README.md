@@ -1,4 +1,4 @@
-# GuardlineAnalyzer
+# Guardline Protocol Analyzer
 Guardline Protocol Analyzer for Saleae Logic software
 
 This analyzer protocol works with Guardline Wireless Driveway Sensors
