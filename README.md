@@ -17,7 +17,7 @@ This project is based on the [SampleAnalyzer](https://github.com/saleae/SampleAn
 
 # Instructions
 1. Build project via Visual Studio files (Windows) or python build scripts (Linux/Mac)
-2. Add output path in Logic software under Preferences->Developer in the "Search this path for analyzer plugins" box. 
+2. Add output path in Logic software under **Preferences/Developer** in the *Search this path for analyzer plugins* box. 
 3. Restart Logic.
 
 # Protocol
